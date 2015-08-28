@@ -1,9 +1,7 @@
 package stomatology;
 
-import java.awt.Color;
 import java.awt.MouseInfo;
 import java.awt.Point;
-import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
